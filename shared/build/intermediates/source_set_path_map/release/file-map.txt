@@ -1,0 +1,10 @@
+com.df.mykmmlibraryone.shared-pngs-0 /Users/denisfisenko/dev/src/android/sandbox/MyKMMLibraryOne/shared/build/generated/res/pngs/release
+com.df.mykmmlibraryone.shared-resValues-1 /Users/denisfisenko/dev/src/android/sandbox/MyKMMLibraryOne/shared/build/generated/res/resValues/release
+com.df.mykmmlibraryone.shared-rs-2 /Users/denisfisenko/dev/src/android/sandbox/MyKMMLibraryOne/shared/build/generated/res/rs/release
+com.df.mykmmlibraryone.shared-mergeReleaseResources-3 /Users/denisfisenko/dev/src/android/sandbox/MyKMMLibraryOne/shared/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.df.mykmmlibraryone.shared-mergeReleaseResources-4 /Users/denisfisenko/dev/src/android/sandbox/MyKMMLibraryOne/shared/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.df.mykmmlibraryone.shared-merged_res-5 /Users/denisfisenko/dev/src/android/sandbox/MyKMMLibraryOne/shared/build/intermediates/merged_res/release
+com.df.mykmmlibraryone.shared-androidMain-6 /Users/denisfisenko/dev/src/android/sandbox/MyKMMLibraryOne/shared/src/androidMain/res
+com.df.mykmmlibraryone.shared-androidRelease-7 /Users/denisfisenko/dev/src/android/sandbox/MyKMMLibraryOne/shared/src/androidRelease/res
+com.df.mykmmlibraryone.shared-main-8 /Users/denisfisenko/dev/src/android/sandbox/MyKMMLibraryOne/shared/src/main/res
+com.df.mykmmlibraryone.shared-release-9 /Users/denisfisenko/dev/src/android/sandbox/MyKMMLibraryOne/shared/src/release/res

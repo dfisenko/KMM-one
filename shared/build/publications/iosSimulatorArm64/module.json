@@ -1,0 +1,121 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../shared/1.0.1/shared-1.0.1.module",
+    "group": "com.df.mykmmlibraryone",
+    "module": "shared",
+    "version": "1.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "iosSimulatorArm64ApiElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.22"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-core",
+          "version": {
+            "requires": "2.2.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-darwin",
+          "version": {
+            "requires": "2.2.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "shared.klib",
+          "url": "shared-iossimulatorarm64-1.0.1.klib",
+          "size": 19352,
+          "sha512": "06dead261c83a86c4761e74dedaa0dd765a3ec08de649dbecd60adf63a46c4afbbb95f161753ef75ac4883cd1212532d910e616f16d77563c0bd9a1a786c2258",
+          "sha256": "a66d0d1d74b4a8cfa7a2c356c62d01559e73d8dcd24a02c81d1aa8084143ba4a",
+          "sha1": "9357586f763dbfd2942f80ea67cd2e3b8acdc818",
+          "md5": "8d74d772f91b4fb5fe911596d7aa0e51"
+        }
+      ]
+    },
+    {
+      "name": "iosSimulatorArm64MetadataElements-published",
+      "attributes": {
+        "artifactType": "org.jetbrains.kotlin.klib",
+        "org.gradle.category": "library",
+        "org.gradle.usage": "kotlin-metadata",
+        "org.jetbrains.kotlin.native.target": "ios_simulator_arm64",
+        "org.jetbrains.kotlin.platform.type": "native"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-common",
+          "version": {
+            "requires": "1.7.22"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-core",
+          "version": {
+            "requires": "2.2.1"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-core",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "io.ktor",
+          "module": "ktor-client-darwin",
+          "version": {
+            "requires": "2.2.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "shared-iossimulatorarm64-1.0.1-metadata.jar",
+          "url": "shared-iossimulatorarm64-1.0.1-metadata.jar",
+          "size": 5165,
+          "sha512": "72e45157e81e85182bf34bafbcc85e9c8e778bb18b7c47f7ccccc9661f9a3a1510007496fc09ad4a6802db5ec6e59bef4167f02293f798ba93c33331e5d384e6",
+          "sha256": "654d2934dd0dec14227bd894bcd1bde2e1d0cc5dadf33f8802a8dee54213882a",
+          "sha1": "f1d929e0e8dd7bab3c168f24e4bef5e3c4c61c45",
+          "md5": "1c14cb889cdec7f192a1d41365cee1eb"
+        }
+      ]
+    }
+  ]
+}
