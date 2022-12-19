@@ -15,10 +15,9 @@ kotlin {
 
     cocoapods {
         summary = "Some description for the Shared Module"
-        homepage = "Link to the Shared Module homepage or no"
+        homepage = "Link to the Shared Module homepage"
         version = "1.0"
         ios.deploymentTarget = "14.1"
-        source = "{ :git => https://github.com/dfisenko/kmm-cocoa-one.git}"
         framework {
             baseName = "shared"
 

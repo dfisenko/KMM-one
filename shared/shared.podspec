@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
     spec.name                     = 'shared'
     spec.version                  = '1.0'
-    spec.homepage                 = 'Link to the Shared Module homepage or no'
-    spec.source                   = { :git=> 'https://github.com/dfisenko/kmm-cocoa-one.git', :tag=> "{spec.version}"}
+    spec.homepage                 = 'Link to the Shared Module homepage'
+    spec.source                   = { :http=> ''}
     spec.authors                  = ''
     spec.license                  = ''
     spec.summary                  = 'Some description for the Shared Module'
